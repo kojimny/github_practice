@@ -1,2 +1,3 @@
 # github_practice
-fetchn
+fetch1
+fetch2
